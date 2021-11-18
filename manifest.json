@@ -1,6 +1,7 @@
 {
   "short_name": "CryptoChefs",
   "name": "CryptoChefs",
+  "start_url": ".",
   "theme_color": "#F6DE6D",
   "background_color": "#1D6068",
  "icons": [
@@ -40,7 +41,5 @@
    "type": "image\/png",
    "density": "4.0"
   }
- ],
-  "start_url": ".",
-  "display": "standalone"
+ ]
 }
