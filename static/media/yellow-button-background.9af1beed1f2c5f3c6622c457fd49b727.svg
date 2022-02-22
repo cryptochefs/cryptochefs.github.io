@@ -1,0 +1,17 @@
+<svg id="Home_Button" data-name="Home Button" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="258.211" height="62.129" viewBox="0 0 258.211 62.129">
+  <defs>
+    <filter id="Path_27650" x="0" y="0.154" width="258.211" height="61.975" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur result="blur"/>
+      <feFlood floodColor="#322114"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Path_27650)">
+    <path id="Path_27650-2" data-name="Path 27650" d="M9,0H249.211a9,9,0,0,1,9,9V50.975a9,9,0,0,1-9,9H9a9,9,0,0,1-9-9V9A9,9,0,0,1,9,0Z" transform="translate(0 0.15)" fill="#ffa631"/>
+  </g>
+  <path id="Path_27649" data-name="Path 27649" d="M9,0H249.211a9,9,0,0,1,9,9V42.843a9,9,0,0,1-9,9H9a9,9,0,0,1-9-9V9A9,9,0,0,1,9,0Z" transform="translate(0 0.154)" fill="#ffcc3b"/>
+  <path id="Path_27648" data-name="Path 27648" d="M9,0H249.211a9,9,0,0,1,9,9v6.4a9,9,0,0,1-9,9H9a9,9,0,0,1-9-9V9A9,9,0,0,1,9,0Z" transform="translate(0 0.154)" fill="#ffe655"/>
+  <path id="Path_275" data-name="Path 275" d="M1126.89,419.625a8.529,8.529,0,0,0,5.535,2.183c6.151,0,11.168-7.424,11.438-16.736h-4.737c-3.328-.007-7.022-1.113-10.179,2.7C1126.083,412.3,1127.187,415.713,1126.89,419.625Z" transform="translate(-1126.89 -404.917)" fill="#ffec8d"/>
+</svg>
