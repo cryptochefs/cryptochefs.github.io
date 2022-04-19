@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.5ff44119.css",
-    "main.js": "/static/js/main.a376a846.js",
+    "main.js": "/static/js/main.545620b7.js",
     "static/js/787.eedb712d.chunk.js": "/static/js/787.eedb712d.chunk.js",
     "static/media/White_Pepper.pdf": "/static/media/White_Pepper.8246ef6a02d9e546b46b.pdf",
     "static/media/about-chef.svg": "/static/media/about-chef.351d46cc4f6c1098287f20fdc9b2e25a.svg",
@@ -68,11 +68,11 @@
     "static/media/discord.svg": "/static/media/discord.c4900a9df1134fa22b7796e5733291da.svg",
     "static/media/chili-pepper.svg": "/static/media/chili-pepper.8d9a1467ac92dbac9bd31fffbf64328d.svg",
     "main.5ff44119.css.map": "/static/css/main.5ff44119.css.map",
-    "main.a376a846.js.map": "/static/js/main.a376a846.js.map",
+    "main.545620b7.js.map": "/static/js/main.545620b7.js.map",
     "787.eedb712d.chunk.js.map": "/static/js/787.eedb712d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5ff44119.css",
-    "static/js/main.a376a846.js"
+    "static/js/main.545620b7.js"
   ]
 }
