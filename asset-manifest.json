@@ -1,13 +1,12 @@
 {
   "files": {
     "main.css": "/static/css/main.c72a2497.css",
-    "main.js": "/static/js/main.c0343f6a.js",
+    "main.js": "/static/js/main.8e733835.js",
     "static/js/787.eedb712d.chunk.js": "/static/js/787.eedb712d.chunk.js",
     "static/media/linkedin-hover-gold.svg": "/static/media/linkedin-hover-gold.33f75a2f79708b0265ded295e0486d29.svg",
     "static/media/linkedin-hover.svg": "/static/media/linkedin-hover.671afb4b91cfca4fc849e9bf4c714aca.svg",
     "static/media/White_Pepper.pdf": "/static/media/White_Pepper.8246ef6a02d9e546b46b.pdf",
     "static/media/pattern.png": "/static/media/pattern.d56f1b222ac13b77280e.png",
-    "static/media/banner.png": "/static/media/banner.a576ed1bde0fbd95dac4.png",
     "static/media/hero.svg": "/static/media/hero.34af415935ffe6a265d442580521b8ba.svg",
     "static/media/Sebastien.webp": "/static/media/Sebastien.c3418a51ea4c0b772111.webp",
     "static/media/Dr-Pascal-Moriggl.webp": "/static/media/Dr-Pascal-Moriggl.fbe73265fd9c91298f52.webp",
@@ -63,11 +62,11 @@
     "index.html": "/index.html",
     "static/media/chili-pepper.svg": "/static/media/chili-pepper.8d9a1467ac92dbac9bd31fffbf64328d.svg",
     "main.c72a2497.css.map": "/static/css/main.c72a2497.css.map",
-    "main.c0343f6a.js.map": "/static/js/main.c0343f6a.js.map",
+    "main.8e733835.js.map": "/static/js/main.8e733835.js.map",
     "787.eedb712d.chunk.js.map": "/static/js/787.eedb712d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c72a2497.css",
-    "static/js/main.c0343f6a.js"
+    "static/js/main.8e733835.js"
   ]
 }
