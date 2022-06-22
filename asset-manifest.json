@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.c72a2497.css",
-    "main.js": "/static/js/main.91900a48.js",
+    "main.js": "/static/js/main.6c7024b5.js",
     "static/js/787.eedb712d.chunk.js": "/static/js/787.eedb712d.chunk.js",
     "static/media/linkedin-hover-gold.svg": "/static/media/linkedin-hover-gold.33f75a2f79708b0265ded295e0486d29.svg",
     "static/media/linkedin-hover.svg": "/static/media/linkedin-hover.671afb4b91cfca4fc849e9bf4c714aca.svg",
@@ -25,7 +25,6 @@
     "static/media/Walid.webp": "/static/media/Walid.48e9516414b1de5a99cf.webp",
     "static/media/Simon.webp": "/static/media/Simon.760105d927971d3f3249.webp",
     "static/media/ninja.svg": "/static/media/ninja.0dbaa38ee3d083c82b289ebd35530786.svg",
-    "static/media/Nick.webp": "/static/media/Nick.10f22ef206ecf6bebe53.webp",
     "static/media/Jay.webp": "/static/media/Jay.a3211774c37e71abe7a2.webp",
     "static/media/Ali.webp": "/static/media/Ali.aab33a0481d1b210cd1c.webp",
     "static/media/Roland.webp": "/static/media/Roland.db5473629aae79eb234e.webp",
@@ -35,7 +34,16 @@
     "static/media/Driton.webp": "/static/media/Driton.7eb6abd8074528e2d7b1.webp",
     "static/media/Syed.webp": "/static/media/Syed.aac5a0003f0bcfcfbe9f.webp",
     "static/media/cook.svg": "/static/media/cook.a6bfb6b696a61422612658f304cf4cce.svg",
+    "static/media/CryptoSociety.png": "/static/media/CryptoSociety.afc2ba74d5ac85dad347.png",
+    "static/media/SwissBorg.png": "/static/media/SwissBorg.f7b091141bfc36b48808.png",
+    "static/media/Anna.webp": "/static/media/Anna.5a371ca5e93a1f4fc57a.webp",
+    "static/media/Keith.webp": "/static/media/Keith.0bc451514fd3653786c9.webp",
     "static/media/rubik-all-400-normal.woff": "/static/media/rubik-all-400-normal.84344aed90cae7142af2.woff",
+    "static/media/Mohammed.webp": "/static/media/Mohammed.3b4b2b68de97de9775c5.webp",
+    "static/media/Romeo.webp": "/static/media/Romeo.0cd6d9af48bcfe3bea2c.webp",
+    "static/media/BlockchainClubUZH.png": "/static/media/BlockchainClubUZH.2082966eaf10d2f3d3fb.png",
+    "static/media/Keyper.png": "/static/media/Keyper.9b5939680c29384ab97c.png",
+    "static/media/HEC.png": "/static/media/HEC.f050e23c9d49c74f8a5d.png",
     "static/media/luckiest-guy-all-400-normal.woff": "/static/media/luckiest-guy-all-400-normal.eb43dbd089795a96cbc1.woff",
     "static/media/luckiest-guy-latin-400-normal.woff2": "/static/media/luckiest-guy-latin-400-normal.fb2cf90d78cf1150b93c.woff2",
     "static/media/rubik-latin-400-normal.woff2": "/static/media/rubik-latin-400-normal.603d2af702968ad3f2b1.woff2",
@@ -62,11 +70,11 @@
     "index.html": "/index.html",
     "static/media/chili-pepper.svg": "/static/media/chili-pepper.8d9a1467ac92dbac9bd31fffbf64328d.svg",
     "main.c72a2497.css.map": "/static/css/main.c72a2497.css.map",
-    "main.91900a48.js.map": "/static/js/main.91900a48.js.map",
+    "main.6c7024b5.js.map": "/static/js/main.6c7024b5.js.map",
     "787.eedb712d.chunk.js.map": "/static/js/787.eedb712d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c72a2497.css",
-    "static/js/main.91900a48.js"
+    "static/js/main.6c7024b5.js"
   ]
 }
