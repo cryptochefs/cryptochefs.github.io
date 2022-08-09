@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.c72a2497.css",
-    "main.js": "/static/js/main.3cabdeb7.js",
+    "main.js": "/static/js/main.9077eba8.js",
     "static/js/787.eedb712d.chunk.js": "/static/js/787.eedb712d.chunk.js",
     "static/media/linkedin-hover-gold.svg": "/static/media/linkedin-hover-gold.33f75a2f79708b0265ded295e0486d29.svg",
     "static/media/linkedin-hover.svg": "/static/media/linkedin-hover.671afb4b91cfca4fc849e9bf4c714aca.svg",
@@ -73,11 +73,11 @@
     "static/media/LiiPrint.svg": "/static/media/LiiPrint.9ab63cbbee11a9c306fa247e8688f048.svg",
     "static/media/chili-pepper.svg": "/static/media/chili-pepper.8d9a1467ac92dbac9bd31fffbf64328d.svg",
     "main.c72a2497.css.map": "/static/css/main.c72a2497.css.map",
-    "main.3cabdeb7.js.map": "/static/js/main.3cabdeb7.js.map",
+    "main.9077eba8.js.map": "/static/js/main.9077eba8.js.map",
     "787.eedb712d.chunk.js.map": "/static/js/787.eedb712d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c72a2497.css",
-    "static/js/main.3cabdeb7.js"
+    "static/js/main.9077eba8.js"
   ]
 }
