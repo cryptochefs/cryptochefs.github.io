@@ -1,0 +1,29 @@
+<svg id="LiiPRinT" xmlns="http://www.w3.org/2000/svg" width="256.702" height="69.233" viewBox="0 0 256.702 69.233">
+  <g id="Group_12667" data-name="Group 12667" transform="translate(0 0)">
+    <g id="Rectangle_1156" data-name="Rectangle 1156" fill="#fcfcfd" stroke="#f4f5f6" stroke-width="1">
+      <rect width="256.702" height="69.233" rx="19" stroke="none"/>
+      <rect x="0.5" y="0.5" width="255.702" height="68.233" rx="18.5" fill="none"/>
+    </g>
+    <g id="LiiPrint_Logo_wide_black_1_" data-name="LiiPrint_Logo_wide_black (1)" transform="translate(23.036 3.598)">
+      <g id="Ebene_13" transform="translate(64.591 21.947)">
+        <g id="Group_12827" data-name="Group 12827">
+          <path id="Path_41306" data-name="Path 41306" d="M69,22.7h4.535V39.116H83.784V43.2H69Z" transform="translate(-69 -22.7)"/>
+          <path id="Path_41307" data-name="Path 41307" d="M88.6,22.7h4.716v4.172H88.6Zm.091,7.074h4.444V43.289H88.691Z" transform="translate(-70.823 -22.7)"/>
+          <path id="Path_41308" data-name="Path 41308" d="M98.4,22.7h4.716v4.172H98.4Zm.091,7.074h4.444V43.289H98.491Z" transform="translate(-71.735 -22.7)"/>
+          <path id="Path_41309" data-name="Path 41309" d="M108.6,22.7h8.435c4.9,0,7.891,2.9,7.891,7.074v.091c0,4.716-3.719,7.256-8.344,7.256h-3.447v6.167H108.6Zm8.072,10.34c2.267,0,3.628-1.36,3.628-3.084v-.091c0-2-1.451-3.084-3.628-3.084h-3.537V33.04Z" transform="translate(-72.683 -22.7)"/>
+          <path id="Path_41310" data-name="Path 41310" d="M130.2,22.7h9.433a8.13,8.13,0,0,1,5.986,2.086,6.3,6.3,0,0,1,1.723,4.716v.091a6.339,6.339,0,0,1-4.081,6.258l4.444,7.437h-5.17l-3.809-6.621h-3.991v6.621H130.2Zm9.161,9.977c2.177,0,3.447-1.179,3.447-2.9v-.091c0-1.9-1.36-2.9-3.537-2.9h-4.535v5.9h4.626Z" transform="translate(-74.693 -22.7)"/>
+          <path id="Path_41311" data-name="Path 41311" d="M153.2,22.7h4.716v4.172H153.2Zm.181,6.984h4.444V43.2h-4.444Z" transform="translate(-76.832 -22.7)"/>
+          <path id="Path_41312" data-name="Path 41312" d="M163.4,22.7h4.172l9.614,12.7V22.7h4.444V43.289h-3.809l-9.977-13.061V43.289H163.4V22.7Z" transform="translate(-77.781 -22.7)"/>
+          <path id="Path_41313" data-name="Path 41313" d="M193.658,26.872H187.4V22.7h17.051v4.172h-6.258V43.289h-4.535V26.872Z" transform="translate(-80.013 -22.7)"/>
+        </g>
+      </g>
+      <g id="Ebene_12" transform="translate(21.6 14.6)">
+        <path id="Path_41314" data-name="Path 41314" d="M24.593,25.9,21.6,31.07l8.888,15.419H48.356l2.9-5.17H33.481Z" transform="translate(-21.6 -15.651)"/>
+        <path id="Path_41315" data-name="Path 41315" d="M28.2,19.679l2.9,5.17h5.986l2.9-5.17H34.1L31.1,14.6Z" transform="translate(-22.214 -14.6)"/>
+        <path id="Path_41316" data-name="Path 41316" d="M41.2,19.679l2.993,5.17h5.986l2.9-5.17h-5.9L44.193,14.6Z" transform="translate(-23.423 -14.6)"/>
+        <path id="Path_41317" data-name="Path 41317" d="M34.7,31.07l2.993,5.079h5.9l2.993-5.079H40.6l-2.9-5.17Z" transform="translate(-22.819 -15.651)"/>
+        <path id="Path_41318" data-name="Path 41318" d="M47.8,31.07l2.993,5.079h5.9l2.993-5.079H53.7l-2.9-5.17Z" transform="translate(-24.037 -15.651)"/>
+      </g>
+    </g>
+  </g>
+</svg>
