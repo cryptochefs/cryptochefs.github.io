@@ -1,5 +1,6 @@
 {
   "start_url": "/",
+  "scope": "/",
   "name": "CryptoChefs",
   "short_name": "CryptoChefs",
   "description": "CryptoChefs is a unique, skill-based, play-to-earn NFT game. Craft your Crypto recipes and compete for daily, weekly, and monthly rewards!",
