@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Pepper_Sketch" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" viewBox="0 0 1000 1000" style="enable-background:new 0 0 1000 1000;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#FFFFFF;stroke-width:17.6258;stroke-miterlimit:10;}
+	.st1{fill:#FFFFFF;}
+	.st2{fill:none;stroke:#FFFFFF;stroke-width:10.5755;stroke-miterlimit:10;}
+</style>
+<g id="Pepper_Bottle">
+	<path class="st0" d="M599.4,138.7L797,304.5c14.1,11.8,14.7,33.3,1.3,45.9L509,622.9c-11.3,10.7-28.9,11.2-40.8,1.2L341.8,518
+		c-11.9-10-14.5-27.4-5.9-40.4L554,145.4C564.1,130,585.3,126.9,599.4,138.7z"/>
+	<path class="st1" d="M706,401L500.4,594.7c-6.9,6.5-17.5,6.8-24.8,0.7l-107.3-90c-7.2-6.1-8.8-16.6-3.6-24.5l52.4-79.8H706z"/>
+	<path class="st1" d="M343.4,521.6l121,101.5c8.1,6.8,9.1,18.8,2.3,26.8l0,0c-6.8,8.1-18.8,9.1-26.8,2.3l-121-101.5
+		c-8.1-6.8-9.1-18.8-2.3-26.8v0C323.3,515.9,335.3,514.9,343.4,521.6z"/>
+	
+		<rect x="297.7" y="580.1" transform="matrix(-0.766 -0.6428 0.6428 -0.766 266.7224 1315.8638)" class="st2" width="150.2" height="58.5"/>
+	<path class="st2" d="M287.1,575.7l133.8,112.3c6.5,5.4,7.3,15,1.9,21.5l-11.5,13.7c-17.8,21.2-49.3,23.9-70.4,6.2l-80.6-67.6
+		c-21.2-17.8-23.9-49.3-6.2-70.4l11.5-13.7C271.1,571.1,280.7,570.3,287.1,575.7z"/>
+</g>
+<g id="Pepper_Particles">
+	<circle class="st1" cx="256.6" cy="698.1" r="5.6"/>
+	<circle class="st1" cx="299.6" cy="721.1" r="5.6"/>
+	<circle class="st1" cx="331" cy="740.8" r="5.7"/>
+	<circle class="st1" cx="272.4" cy="726.7" r="5.7"/>
+	<circle class="st1" cx="259.3" cy="749.9" r="5.7"/>
+	<circle class="st1" cx="278.5" cy="770.1" r="5.7"/>
+	<circle class="st1" cx="330.6" cy="805.1" r="5.6"/>
+	<circle class="st1" cx="316.6" cy="778.1" r="5.6"/>
+	<circle class="st1" cx="288.6" cy="805.1" r="5.6"/>
+	<circle class="st1" cx="259.6" cy="791.1" r="5.6"/>
+	<circle class="st1" cx="237.6" cy="770.1" r="5.6"/>
+	<circle class="st1" cx="237.6" cy="810.1" r="5.6"/>
+	<circle class="st1" cx="203.6" cy="821.1" r="5.6"/>
+	<circle class="st1" cx="197.6" cy="879.1" r="5.6"/>
+	<circle class="st1" cx="250.6" cy="905.1" r="5.6"/>
+	<circle class="st1" cx="237.6" cy="873.1" r="5.6"/>
+	<circle class="st1" cx="304.6" cy="911.1" r="5.6"/>
+	<circle class="st1" cx="286.6" cy="879.1" r="5.6"/>
+	<circle class="st1" cx="338.6" cy="885.1" r="5.6"/>
+	<circle class="st1" cx="332.6" cy="845.1" r="5.6"/>
+	<circle class="st1" cx="203.6" cy="770.1" r="5.6"/>
+	<circle class="st1" cx="231.6" cy="727.1" r="5.6"/>
+	<circle class="st1" cx="259.6" cy="832.1" r="5.6"/>
+	<circle class="st1" cx="288.6" cy="832.1" r="5.6"/>
+	<circle class="st1" cx="310.6" cy="821.1" r="5.6"/>
+	<circle class="st1" cx="299.7" cy="756" r="5.7"/>
+	<circle class="st1" cx="338.2" cy="715.7" r="12"/>
+	<circle class="st1" cx="306.3" cy="689" r="12"/>
+	<circle class="st1" cx="274.5" cy="662.2" r="12"/>
+</g>
+</svg>
